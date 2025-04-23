@@ -1,0 +1,4 @@
+# You need to create this directory structure and add an image file
+# Run these commands in your terminal:
+# mkdir -p c:\laragon\www\PHP3\Assignment\public\images
+# Then download a MoMo icon image and save it to this path
